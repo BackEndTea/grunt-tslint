@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-This plugin requires [Grunt](http://gruntjs.com/) `~0.4.1` and [tslint](https://github.com/palantir/tslint) `~4.0.0`
+This plugin requires [Grunt](http://gruntjs.com/) `>=0.4.1` and [tslint](https://github.com/palantir/tslint) `^5.0.0`
 
 ```
 npm install grunt-tslint --save-dev
